@@ -14,6 +14,7 @@ project:
     - file: README.md
     - file: libro/calculo_tamano_muestra.md
     - file: libro/pruebas_diagnostico.md
+    - file: libro/pruebas_estadisticas.md
     - file: libro/tamanos_efecto.md
     - file: libro/galeria_graficos.ipynb
 site:
