@@ -8,6 +8,7 @@ dependencies = [
     "jupyter-book>=2.1.6",
     "jupyterlab>=4.6.3",
     "numpy>=2.5.2",
+    "scikit-learn>=1.9.0",
     "scipy>=1.18.1",
     "seaborn>=0.13.2",
 ]
