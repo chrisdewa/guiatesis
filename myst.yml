@@ -12,9 +12,7 @@ project:
   # To autogenerate a Table of Contents, run "jupyter book init --write-toc"
   toc:
     - file: README.md
-    - title: Protocolo
-      children:
-        - file: libro/protocolo/calculo_tamano_muestra.md
+    - file: libro/protocolo/calculo_tamano_muestra.md
 site:
   template: book-theme
   # options:
